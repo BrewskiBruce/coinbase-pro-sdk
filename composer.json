@@ -47,13 +47,13 @@
         "guzzlehttp/guzzle": "^6.0 | ^7.0",
         "php": ">=7.2",
         "psr/http-client": "^1.0",
-        "symfony/yaml": "^4.0 | ^5.0"
+        "symfony/yaml": "^4.0 | ^5.0 | ^v6.0.0"
     },
     "require-dev": {
         "ext-pcntl": "*",
         "friendsofphp/php-cs-fixer": "^2.16",
         "phpstan/phpstan": "^0.12.42",
-        "phpunit/phpunit": "^7.5",
+        "phpunit/phpunit": "^9.5.20",
         "vlucas/phpdotenv": "^4.0",
         "symfony/var-dumper": "^4.0"
     }
